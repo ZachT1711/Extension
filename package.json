@@ -43,7 +43,7 @@
         "webpack-cli": "3.3.0"
     },
     "dependencies": {
-        "@babel/plugin-transform-react-jsx": "^7.7.4",
+        "@babel/plugin-transform-react-jsx": "^7.12.12",
         "@babel/runtime": "7.3.4",
         "@sentry/browser": "^5.11.1",
         "amplitude-js": "^5.7.0",
